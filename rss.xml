@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Avalon Industries | Worldwide construction</title>
+  <link>https://pepek24.github.io/aleksandarpecelj/</link>
+  <description>Welcome to Avalon Industries</description>
+  <item>
+    <title>We work for your future</title>
+    <link>https://pepek24.github.io/aleksandarpecelj/index.html</link>
+    <description>Come and see what we have to offer to you</description>
+  </item>
+  <item>
+    <title>New Projects!</title>
+    <link>https://pepek24.github.io/aleksandarpecelj/projects.html</link>
+    <description>Many more projects on the way, one of them could be yours</description>
+  </item>
+</channel>
+</rss> 
